@@ -1,0 +1,37 @@
+body {
+				background-color:#101010;
+}
+hr {
+				border:4px solid #cf004d;
+				border-radius:15px;
+}
+p {
+				padding:15px;
+				border:6px solid #cf004d;
+				border-radius:15px;
+				color:#cf004d;
+				background-color:#55001f;
+}
+h1 {
+				border:6px solid #cf004d;
+				border-radius:15px;
+				color:#cf004d;
+				background-color:#55001f;
+}
+img {
+				position:relative;
+				right:30px;
+				top:30px;
+}
+h2 {
+				border:6px solid #cf004d;
+				border-radius:15px;
+				color:#cf004d;
+				background-color:#55001f;
+}
+ul {
+				border:6px solid #cf004d;
+				border-radius:15px;
+				color:#cf004d;
+				background-color:#55001f;
+}
